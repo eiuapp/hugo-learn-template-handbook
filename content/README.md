@@ -1,19 +1,20 @@
-# Blog Gitbook
+# 学习笔记
 
-此书是[我的博客](http://eiuapp.github.io/)的阅读与理解，帮助大家更快了解我对技能的管理和使用。
+![](https://raw.githubusercontent.com/eiuapp/img/master/img/hugo-logo-black.png?token=AJOUPL5RQABN75RVK4HTESK5CSI5M)
 
-- GitHub地址：https://github.com/eiuapp/github-handbook/
+### 内容介绍
 
-- 在线访问地址：https://eiuapp.github.io/
+关于 chrome , 主要包括一些学习笔记
+
+### 访问方式
+
+请点击下面的链接阅读:
+
+- [在线阅读](https://eiuapp.github.io/chrome-handbook/)：hugo格式，界面清爽。
+- [@github](https://github.com/eiuapp/chrome-handbook/)：源码托管于github，如有谬误或需讨论，请提issue，欢迎提交PR
 
 
-## 相关资源
+### 版权申明
 
-
-## 关于
-
-本书中引用了一些公开的分享与链接并加以整理。
-
-**本书作于2019年初，会持续更新。**
-
+本笔记内容可以任意转载，但请注明来源并提供链接，**请勿用于商业出版**。
 
