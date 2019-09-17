@@ -18,3 +18,8 @@
 
 本笔记内容可以任意转载，但请注明来源并提供链接，**请勿用于商业出版**。
 
+### 安装
+
+```
+git submodule add https://github.com/matcornic/hugo-theme-learn.git themes/hugo-theme-learn
+```

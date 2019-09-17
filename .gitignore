@@ -1,7 +1,6 @@
 #.*
 !.gitignore
 /public/
-/themes/
 /update_theme.sh
 /update_theme_learn.sh
 /*.bak
